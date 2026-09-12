@@ -1,0 +1,29 @@
+# Maven build output
+**/target/
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/local configuration
+.env
+.env.*
+
+# Keep source configuration tracked; secrets must be provided via environment variables.
